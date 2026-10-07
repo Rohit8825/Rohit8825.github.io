@@ -1,5 +1,8 @@
 # ⚡ Rohit's Developer Portfolio
 
+> 🌐 **Live Public Website:** [https://rohit8825.github.io](https://rohit8825.github.io)  
+> 📦 **GitHub Repository:** [https://github.com/Rohit8825/Rohit8825.github.io](https://github.com/Rohit8825/Rohit8825.github.io)
+
 A modern, high-performance, cyber-glassmorphic personal portfolio website engineered for **Rohit** (B.Tech, Motilal Nehru National Institute of Technology Allahabad).
 
 Designed to showcase full-stack engineering expertise, real-time WebSocket systems, deep learning projects, and algorithmic problem-solving to technical recruiters and collaborators.
